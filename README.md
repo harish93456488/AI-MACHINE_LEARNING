@@ -1,7 +1,5 @@
 # 🤖 AI-MACHINE_LEARNING
-```
-⬆️ (Replace above with your app's name)
-```
+
 THIS IS USED TO TRAIN MODELS
 
 ## Demo App
