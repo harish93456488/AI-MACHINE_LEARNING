@@ -1,13 +1,12 @@
-# 📦 Streamlit App Starter Kit 
+# 🤖 AI-MACHINE_LEARNING
 ```
 ⬆️ (Replace above with your app's name)
 ```
-
-Description of the app ...
+THIS IS USED TO TRAIN MODELS
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https:/AI-MACHINE_LEARNING/.streamlit.app/)
 
 ## GitHub Codespaces
 
