@@ -12,9 +12,9 @@ with st.expander('data'):
     df
 
     st.write('**X**')
-    x=df.drop('species',axis=1)
+    x = df.drop('species',axis=1)
     x
     st.write('**Y**')
-    y=df.species
+    y = df.species
     y
     
